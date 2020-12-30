@@ -1,6 +1,9 @@
 ### Hi there 👋
-🌱 Currently learning JavaScript
-⚡ Fun fact: I just got my braces off as an adult. After a year and a half I can now eat beef jerky again!
+🌱 Currently learning JavaScript. I'm working through The Odin Project because I hear they have awesome JavaScript projects.
+
+⚡ Fun fact: I designed and 3D printed my own mic stand. Now my mic doesn't have to roll all over my desk anymore!
+
+📫 How to reach me: @mbeckdev on Twitter
 
 <!--
 **mbeckdev/mbeckdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
