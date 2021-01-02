@@ -1,6 +1,8 @@
 ### Hi there 👋
 🌱 Currently learning JavaScript. I'm working through The Odin Project because I hear they have awesome JavaScript projects.
 
+🔭 Latest exciting project: recreating the google search homepage in HTML and CSS.
+
 ⚡ Fun fact: I designed and 3D printed my own mic stand. Now my mic doesn't have to roll all over my desk anymore!
 
 📫 How to reach me: @mbeckdev on Twitter
