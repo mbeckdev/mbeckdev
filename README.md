@@ -1,14 +1,16 @@
 ### Hi there 👋
 🌱 Currently learning JavaScript. I'm working through The Odin Project because I hear they have awesome JavaScript projects.
 
-🔭 Latest exciting project: Using regular expressions in a form (regex-form).
+🔭 Latest exciting project: (background-generator) Random color gradient generator that calculates RGB, HEX, and HSL.
 
 ⚡ Fun fact: I designed and 3D printed my own mic stand. Now my mic doesn't have to roll all over my desk anymore!
 
 📫 How to reach me: @mbeckdev on Twitter
 
 🔭 Older exciting projects: 
-      recreating the google search homepage in HTML and CSS (google-homepage).
+- (regex-form) Using regular expressions in a form -  or How to check that people enter forms with only certain characters.
+- (google-homepage) Recreating the google search homepage in HTML and CSS.
+      
 
 <!--
 **mbeckdev/mbeckdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
