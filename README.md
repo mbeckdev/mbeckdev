@@ -1,13 +1,14 @@
 ### Hi there 👋
 🌱 Currently learning JavaScript. I'm working through The Odin Project because I hear they have awesome JavaScript projects.
 
-🔭 Latest exciting project: (background-generator) Random color gradient generator that calculates RGB, HEX, and HSL.
+🔭 Latest exciting project: (drum-kit) https://mbeckdev.github.io/drum-kit/ Play drums with your keyboard.
 
 ⚡ Fun fact: I designed and 3D printed my own mic stand. Now my mic doesn't have to roll all over my desk anymore!
 
 📫 How to reach me: @mbeckdev on Twitter
 
 🔭 Older exciting projects: 
+- (background-generator) Random color gradient generator that calculates RGB, HEX, and HSL.
 - (regex-form) Using regular expressions in a form -  or How to check that people enter forms with only certain characters.
 - (google-homepage) Recreating the google search homepage in HTML and CSS.
       
