@@ -1,14 +1,14 @@
 ### Hi there 👋
 🌱 I'm currently learning JavaScript. I'm working through The Odin Project because I hear they have awesome JavaScript projects.
 
-🔭 Latest exciting project: (clock) https://mbeckdev.github.io/clock/ A JavaScript clock
-
+🔭 Latest exciting project: (april fools) https://mbeckdev.github.io/april-fools-21/ terrible puns await
 
 ⚡ Fun fact: I designed and 3D printed stands for the legs of my desk. Now my chair fits under the desk and doesn't bump into it!
 
 📫 How to reach me: @mbeckdev on Twitter
 
 🔭 Older exciting projects: 
+- (clock) https://mbeckdev.github.io/clock/ A JavaScript clock
 - (calculator) https://mbeckdev.github.io/calculator/ A calculator made in JavaScript.
 - (etch-a-sketch) https://mbeckdev.github.io/etch-a-sketch/ Draw on the screen like an etch-a-sketch.
 - (rock-paper-scissors) https://mbeckdev.github.io/rock-paper-scissors/ Play rock paper scissors against a computer.
