@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I'm currently learning JavaScript. I'm working through The Odin Project because I hear they have awesome JavaScript projects.
 
-🔭 Latest exciting project: (library) https://mbeckdev.github.io/library/ Record and save which books you've read or want to read. uses localStorage!
+🔭 Latest exciting project: (library) https://mbeckdev.github.io/library/ Record and save which books you've read or want to read. Uses localStorage!
 
 ⚡ Fun fact: I designed and 3D printed stands for the legs of my desk. Now my chair fits under the desk and doesn't bump into it!
 
