@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I'm currently learning JavaScript. I'm working through The Odin Project because I hear they have awesome JavaScript projects.
 
-🔭 Latest exciting project: (restaurant-page) https://mbeckdev.github.io/restaurant-page/ A kabob restaurant made using webpack
+🔭 Latest exciting project: (to-do list) https://mbeckdev.github.io/to-do-list/ A CRUD project that saves your todo list that uses webpack, localStorage, HTML, CSS, and JavaScript, and a third party library 'date-fns'
 
 
 ⚡ Fun fact: I designed and 3D printed stands for the legs of my desk. Now my chair fits under the desk and doesn't bump into it!
@@ -9,6 +9,7 @@
 📫 How to reach me: @mbeckdev on Twitter
 
 🔭 Older exciting projects: 
+- (restaurant-page) https://mbeckdev.github.io/restaurant-page/ A kabob restaurant made using webpack
 - (tic-tac-toe) https://mbeckdev.github.io/tic-tac-toe/ Play against a computer or human. Factory functions!
 - (library) https://mbeckdev.github.io/library/ Record and save which books you've read or want to read. Uses localStorage!
 - (april fools) https://mbeckdev.github.io/april-fools-21/ terrible puns await
