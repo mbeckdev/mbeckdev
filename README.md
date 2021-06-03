@@ -1,8 +1,7 @@
 ### Hi there 👋
 🌱 I'm currently learning JavaScript and web development. I'm working through The Odin Project because I hear they have awesome JavaScript projects.
 
-🔭 Latest exciting project: [(to-do list)](https://mbeckdev.github.io/to-do-list/) A CRUD project that saves your todo list that uses webpack, localStorage, HTML, CSS, and JavaScript, and a third party library 'date-fns'
-
+🔭 Latest exciting project: [(to-do list)](https://mbeckdev.github.io/to-do-list/) A CRUD project that saves your todo list that uses webpack, localStorage, HTML, CSS, and JavaScript, and a third party library 'date-fns', babel, and tried out eslint in my editor.
 
 ⚡ Fun fact: I designed and 3D printed stands for the legs of my desk. Now my chair fits under the desk and doesn't bump into it!
 
