@@ -1,13 +1,14 @@
 ### Hi there 👋
 🌱 I'm currently learning JavaScript and web development. I'm working through The Odin Project because I hear they have awesome JavaScript projects.
 
-🔭 Latest exciting project: [(to-do list)](https://mbeckdev.github.io/to-do-list/) A CRUD project that saves your todo list that uses webpack, localStorage, HTML, CSS, and JavaScript, and a third party library 'date-fns', babel, and tried out eslint in my editor.
+🔭 Latest exciting project: [(canvas shenanigans)](https://mbeckdev.github.io/canvas-shenanigans/) What's possible in canvas? I made a few projects using canvas that could go behind a header on a site someday.
 
 ⚡ Fun fact: I designed and 3D printed stands for the legs of my desk. Now my chair fits under the desk and doesn't bump into it!
 
 📫 How to reach me: @mbeckdev on Twitter
 
 🔭 Older exciting projects: 
+- [(to-do list)](https://mbeckdev.github.io/to-do-list/) A CRUD project that saves your todo list that uses webpack, localStorage, HTML, CSS, and JavaScript, and a third party library 'date-fns', babel, and tried out eslint in my editor.
 - [(restaurant-page)](https://mbeckdev.github.io/restaurant-page/) A kabob restaurant made using webpack
 - [(tic-tac-toe)](https://mbeckdev.github.io/tic-tac-toe/) Play against a computer or human. Factory functions!
 - [(library)](https://mbeckdev.github.io/library/) Record and save which books you've read or want to read. Uses localStorage!
