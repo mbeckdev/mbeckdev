@@ -1,13 +1,14 @@
 ### Hi there 👋
-🌱 I'm currently learning JavaScript and web development. I'm working through The Odin Project because I hear they have awesome JavaScript projects.
+🌱 I'm currently learning JavaScript and web development. I'm working through The Odin Project because they have awesome JavaScript projects.
 
-🔭 Latest exciting project: [(Word Chomp)](https://github.com/mbeckdev/spell-man) - an HTML5 spelling game for kids. Made with two other people for the first [Odin Project Gamejam](https://itch.io/jam/top-jam-1) You can play it on itch.io [here](https://mbeckdev.itch.io/word-chomp).
+🔭 Latest exciting project: [(battleship)](https://mbeckdev.github.io/battleship/) -  a battleship game against a computer that used Jest to test the logic of the code before starting to code the visual dom parts. Jest, Webpack, HTML, CSS, JavaScript [code here](https://github.com/mbeckdev/battleship)
 
 ⚡ Fun fact: I designed and 3D printed stands for the legs of my desk. Now my chair fits under the desk and doesn't bump into it!
 
 📫 How to reach me: @mbeckdev on Twitter
 
 🔭 Older exciting projects: 
+- [(Word Chomp)](https://github.com/mbeckdev/spell-man) - an HTML5 spelling game for kids. Made with two other people for the first [Odin Project Gamejam](https://itch.io/jam/top-jam-1) You can play it on itch.io [here](https://mbeckdev.itch.io/word-chomp).
 - [(canvas shenanigans)](https://mbeckdev.github.io/canvas-shenanigans/) What's possible in canvas? I made a few projects using canvas that could go behind a header on a site someday.
 - [(to-do list)](https://mbeckdev.github.io/to-do-list/) A CRUD project that saves your todo list that uses webpack, localStorage, HTML, CSS, and JavaScript, and a third party library 'date-fns', babel, and tried out eslint in my editor.
 - [(restaurant-page)](https://mbeckdev.github.io/restaurant-page/) A kabob restaurant made using webpack
