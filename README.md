@@ -1,13 +1,15 @@
 ### Hi there 👋
 🌱 I'm currently learning JavaScript and web development. I'm working through The Odin Project because they have awesome JavaScript projects.
 
-🔭 Latest exciting project: [(battleship)](https://mbeckdev.github.io/battleship/) -  a battleship game against a computer that used Jest to test the logic of the code before starting to code the visual dom parts. Jest, Webpack, HTML, CSS, JavaScript [code here](https://github.com/mbeckdev/battleship)
+🔭 Latest exciting project: [(mnemonic)](https://mbeckdev.github.io/mnemonic/) - Put in a small word and it makes a sentence out of the letters. HTML turns into "Happy turtles mine lollipops." [code](https://github.com/mbeckdev/mnemonic)
 
 ⚡ Fun fact: I designed and 3D printed stands for the legs of my desk. Now my chair fits under the desk and doesn't bump into it!
 
 📫 How to reach me: @mbeckdev on Twitter
 
 🔭 Older exciting projects: 
+- [(sass-restaurant)](https://mbeckdev.github.io/sass-restaurant/)  -  A restaurant made with SASS [code](https://github.com/mbeckdev/sass-restaurant)
+- [(battleship)](https://mbeckdev.github.io/battleship/) -  a battleship game against a computer that used Jest to test the logic of the code before starting to code the visual dom parts. Jest, Webpack, HTML, CSS, JavaScript [code here](https://github.com/mbeckdev/battleship)
 - [(Word Chomp)](https://github.com/mbeckdev/spell-man) - an HTML5 spelling game for kids. Made with two other people for the first [Odin Project Gamejam](https://itch.io/jam/top-jam-1) You can play it on itch.io [here](https://mbeckdev.itch.io/word-chomp).
 - [(canvas shenanigans)](https://mbeckdev.github.io/canvas-shenanigans/) What's possible in canvas? I made a few projects using canvas that could go behind a header on a site someday.
 - [(to-do list)](https://mbeckdev.github.io/to-do-list/) A CRUD project that saves your todo list that uses webpack, localStorage, HTML, CSS, and JavaScript, and a third party library 'date-fns', babel, and tried out eslint in my editor.
