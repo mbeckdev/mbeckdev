@@ -1,13 +1,14 @@
 ### Hi there 👋
 🌱 I'm currently learning JavaScript and web development. I'm working through The Odin Project because they have awesome JavaScript projects.
 
-🔭 Latest exciting project: [(cv-project)](https://mbeckdev.github.io/cv-project/) - [code](https://github.com/mbeckdev/cv-project) Create a resume/cv by entering info. Made with React!
+🔭 Latest exciting project: [(An annoying button game)](https://mbeckdev.github.io/javascript-mini-projects/) An annoying button game
 
 ⚡ Fun fact: I designed and 3D printed stands for the legs of my desk. Now my chair fits under the desk and doesn't bump into it!
 
 📫 How to reach me: @mbeckdev on Twitter
 
 🔭 Older exciting projects: 
+- [(cv-project)](https://mbeckdev.github.io/cv-project/) - [code](https://github.com/mbeckdev/cv-project) Create a resume/cv by entering info. Made with React!
 - [(mnemonic)](https://mbeckdev.github.io/mnemonic/) - Put in a small word and it makes a sentence out of the letters. HTML turns into "Happy turtles mine lollipops." [code](https://github.com/mbeckdev/mnemonic)
 - [(sass-restaurant)](https://mbeckdev.github.io/sass-restaurant/)  -  A restaurant made with SASS [code](https://github.com/mbeckdev/sass-restaurant)
 - [(battleship)](https://mbeckdev.github.io/battleship/) -  a battleship game against a computer that used Jest to test the logic of the code before starting to code the visual dom parts. Jest, Webpack, HTML, CSS, JavaScript [code here](https://github.com/mbeckdev/battleship)
