@@ -1,13 +1,17 @@
 ### Hi there 👋
 🌱 I'm currently learning JavaScript and web development. I'm working through The Odin Project because they have awesome JavaScript projects.
 
-🔭 Latest exciting project: [(An annoying button game)](https://mbeckdev.github.io/javascript-mini-projects/) An annoying button game
+🔭 Latest exciting project: 
+- A couple tiny tiny CRUD apps to practice React with class components and with functional components with Hooks  
+  - [(tiny-crud-class-components)](https://mbeckdev.github.io/tiny-crud-class-components/) and here's the [code](https://github.com/mbeckdev/tiny-crud-class-components)
+  - [(tiny-crud-funtional-components)](https://mbeckdev.github.io/tiny-crud-functional-components/) and here's the [code](https://github.com/mbeckdev/tiny-crud-functional-components)
 
 ⚡ Fun fact: I designed and 3D printed stands for the legs of my desk. Now my chair fits under the desk and doesn't bump into it!
 
 📫 How to reach me: @mbeckdev on Twitter
 
 🔭 Older exciting projects: 
+- [(An annoying button game)](https://mbeckdev.github.io/javascript-mini-projects/) An annoying button game
 - [(cv-project)](https://mbeckdev.github.io/cv-project/) - [code](https://github.com/mbeckdev/cv-project) Create a resume/cv by entering info. Made with React!
 - [(mnemonic)](https://mbeckdev.github.io/mnemonic/) - Put in a small word and it makes a sentence out of the letters. HTML turns into "Happy turtles mine lollipops." [code](https://github.com/mbeckdev/mnemonic)
 - [(sass-restaurant)](https://mbeckdev.github.io/sass-restaurant/)  -  A restaurant made with SASS [code](https://github.com/mbeckdev/sass-restaurant)
