@@ -4,7 +4,7 @@
 🔭 Latest exciting project: 
 - A couple tiny tiny CRUD apps to practice React with class components and with functional components with Hooks  
   - [(tiny-crud-class-components)](https://mbeckdev.github.io/tiny-crud-class-components/) and here's the [code](https://github.com/mbeckdev/tiny-crud-class-components)
-  - [(tiny-crud-funtional-components)](https://mbeckdev.github.io/tiny-crud-functional-components/) and here's the [code](https://github.com/mbeckdev/tiny-crud-functional-components)
+  - [(tiny-crud-functional-components)](https://mbeckdev.github.io/tiny-crud-functional-components/) and here's the [code](https://github.com/mbeckdev/tiny-crud-functional-components)
 
 ⚡ Fun fact: I designed and 3D printed stands for the legs of my desk. Now my chair fits under the desk and doesn't bump into it!
 
