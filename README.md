@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I'm currently learning JavaScript and web development. I'm working through The Odin Project because they have awesome JavaScript projects.
+🌱 I'm currently learning React and web development. I'm working through The Odin Project because they have tons of awesome projects.
 
 🔭 Latest exciting project: 
 - A couple tiny tiny CRUD apps to practice React with class components and with functional components with Hooks  
