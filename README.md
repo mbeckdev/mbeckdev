@@ -11,27 +11,27 @@
 📫 How to reach me: @mbeckdev on Twitter
 
 🔭 Older exciting projects: 
-- [(An annoying button game)](https://mbeckdev.github.io/javascript-mini-projects/) An annoying button game
+- [(An annoying button game)](https://mbeckdev.github.io/javascript-mini-projects/) - [code](https://github.com/mbeckdev/mbeckdev.github.io) An annoying button game. A silly project.
 - [(cv-project)](https://mbeckdev.github.io/cv-project/) - [code](https://github.com/mbeckdev/cv-project) Create a resume/cv by entering info. Made with React!
-- [(mnemonic)](https://mbeckdev.github.io/mnemonic/) - Put in a small word and it makes a sentence out of the letters. HTML turns into "Happy turtles mine lollipops." [code](https://github.com/mbeckdev/mnemonic)
-- [(sass-restaurant)](https://mbeckdev.github.io/sass-restaurant/)  -  A restaurant made with SASS [code](https://github.com/mbeckdev/sass-restaurant)
-- [(battleship)](https://mbeckdev.github.io/battleship/) -  a battleship game against a computer that used Jest to test the logic of the code before starting to code the visual dom parts. Jest, Webpack, HTML, CSS, JavaScript [code here](https://github.com/mbeckdev/battleship)
-- [(Word Chomp)](https://github.com/mbeckdev/spell-man) - an HTML5 spelling game for kids. Made with two other people for the first [Odin Project Gamejam](https://itch.io/jam/top-jam-1) You can play it on itch.io [here](https://mbeckdev.itch.io/word-chomp).
-- [(canvas shenanigans)](https://mbeckdev.github.io/canvas-shenanigans/) What's possible in canvas? I made a few projects using canvas that could go behind a header on a site someday.
-- [(to-do list)](https://mbeckdev.github.io/to-do-list/) A CRUD project that saves your todo list that uses webpack, localStorage, HTML, CSS, and JavaScript, and a third party library 'date-fns', babel, and tried out eslint in my editor.
-- [(restaurant-page)](https://mbeckdev.github.io/restaurant-page/) A kabob restaurant made using webpack
-- [(tic-tac-toe)](https://mbeckdev.github.io/tic-tac-toe/) Play against a computer or human. Factory functions!
-- [(library)](https://mbeckdev.github.io/library/) Record and save which books you've read or want to read. Uses localStorage!
-- [(april fools)](https://mbeckdev.github.io/april-fools-21/) terrible puns await
-- [(clock)](https://mbeckdev.github.io/clock/) A JavaScript clock
-- [(calculator)](https://mbeckdev.github.io/calculator/) A calculator made in JavaScript.
-- [(etch-a-sketch)](https://mbeckdev.github.io/etch-a-sketch/) Draw on the screen like an etch-a-sketch.
-- [(rock-paper-scissors)](https://mbeckdev.github.io/rock-paper-scissors/) Play rock paper scissors against a computer.
-- [(drum-kit)](https://mbeckdev.github.io/drum-kit/) Play drums with your keyboard.
-- [(background-generator)](https://mbeckdev.github.io/background-generator/) Random color gradient generator that calculates RGB, HEX, and HSL.
+- [(mnemonic)](https://mbeckdev.github.io/mnemonic/) - [code](https://github.com/mbeckdev/mnemonic) Put in a small word and it makes a sentence out of the letters. HTML turns into "Happy turtles mine lollipops." 
+- [(sass-restaurant)](https://mbeckdev.github.io/sass-restaurant/) - [code](https://github.com/mbeckdev/sass-restaurant) A restaurant made with SASS 
+- [(battleship)](https://mbeckdev.github.io/battleship/) - [code](https://github.com/mbeckdev/battleship) A battleship game against a computer that uses Jest to test the logic of the code before starting to code the visual dom parts. Jest, Webpack, HTML, CSS, JavaScript 
+- [(Word Chomp)](https://mbeckdev.itch.io/word-chomp) -  [code](https://github.com/mbeckdev/spell-man) - an HTML5 spelling game for kids. Made with two other people for the first [Odin Project Gamejam](https://itch.io/jam/top-jam-1) The link takes you to itch.io where you can play it.
+- [(canvas shenanigans)](https://mbeckdev.github.io/canvas-shenanigans/) - [code](https://github.com/mbeckdev/canvas-shenanigans) What's possible in canvas? I made a few projects using canvas that could go behind a header on a site someday.
+- [(to-do list)](https://mbeckdev.github.io/to-do-list/) - [code](https://github.com/mbeckdev/to-do-list) A CRUD project that saves your todo list that uses webpack, localStorage, HTML, CSS, and JavaScript, and a third party library 'date-fns', babel, and tried out eslint in my editor.
+- [(restaurant-page)](https://mbeckdev.github.io/restaurant-page/) - [code](https://github.com/mbeckdev/restaurant-page) A kabob restaurant made using webpack
+- [(tic-tac-toe)](https://mbeckdev.github.io/tic-tac-toe/) - [code](https://github.com/mbeckdev/tic-tac-toe) Play against a computer or human. Factory functions!
+- [(library)](https://mbeckdev.github.io/library/) - [code](https://github.com/mbeckdev/library) Record and save which books you've read or want to read. Uses localStorage!
+- [(april fools)](https://mbeckdev.github.io/april-fools-21/) - [code](https://github.com/mbeckdev/april-fools-21) Terrible puns await! A silly app.
+- [(clock)](https://mbeckdev.github.io/clock/) - [code](https://github.com/mbeckdev/clock) A JavaScript clock
+- [(calculator)](https://mbeckdev.github.io/calculator/) - [code](https://github.com/mbeckdev/calculator) A calculator made in JavaScript.
+- [(etch-a-sketch)](https://mbeckdev.github.io/etch-a-sketch/) - [code](https://github.com/mbeckdev/etch-a-sketch) Draw on the screen like an etch-a-sketch.
+- [(rock-paper-scissors)](https://mbeckdev.github.io/rock-paper-scissors/) - [code](https://github.com/mbeckdev/rock-paper-scissors) Play rock paper scissors against a computer.
+- [(drum-kit)](https://mbeckdev.github.io/drum-kit/) - [code](https://github.com/mbeckdev/drum-kit) Play drums with your keyboard.
+- [(background-generator)](https://mbeckdev.github.io/background-generator/) - [code](https://github.com/mbeckdev/background-generator) Random color gradient generator that calculates RGB, HEX, and HSL.
 - I designed and 3D printed my own mic stand. Now my mic doesn't have to roll all over my desk anymore!
-- [(regex-form)](https://mbeckdev.github.io/regex-form/) Using regular expressions in a form -  or How to check that people enter forms with only certain characters.
-- [(google-homepage)](https://mbeckdev.github.io/google-homepage/) Recreating the google search homepage in HTML and CSS.
+- [(regex-form)](https://mbeckdev.github.io/regex-form/) - [code](https://github.com/mbeckdev/regex-form) Using regular expressions in a form -  or How to check that people enter forms with only certain characters.
+- [(google-homepage)](https://mbeckdev.github.io/google-homepage/) - [code](https://github.com/mbeckdev/google-homepage) Recreating the google search homepage in HTML and CSS.
       
 
 <!--
