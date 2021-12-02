@@ -1,18 +1,16 @@
 ### Hi there 👋
-🌱 I'm currently learning React and web development. I'm working through The Odin Project because they have tons of awesome projects.
+🌱 I'm Michelle, a software engineer focusing on JavaScript and React and currently working through The Odin Project because they have a ton of awesome projects.
 
-🔭 Latest exciting project: 
+## 🔭 Latest exciting project: 
+- [(cv-project)](https://mbeckdev.github.io/cv-project/) - [code](https://github.com/mbeckdev/cv-project) Create a resume/cv by entering info. Made with React!
+
+## 📫 How to reach me: @mbeckdev on Twitter
+
+## 🔭 Older exciting projects: 
+- [(An annoying button game)](https://mbeckdev.github.io/javascript-mini-projects/) - [code](https://github.com/mbeckdev/mbeckdev.github.io) An annoying button game. A silly project.
 - A couple tiny tiny CRUD apps to practice React with class components and with functional components with Hooks  
   - [(tiny-crud-class-components)](https://mbeckdev.github.io/tiny-crud-class-components/) and here's the [code](https://github.com/mbeckdev/tiny-crud-class-components)
   - [(tiny-crud-functional-components)](https://mbeckdev.github.io/tiny-crud-functional-components/) and here's the [code](https://github.com/mbeckdev/tiny-crud-functional-components)
-
-⚡ Fun fact: I designed and 3D printed stands for the legs of my desk. Now my chair fits under the desk and doesn't bump into it!
-
-📫 How to reach me: @mbeckdev on Twitter
-
-🔭 Older exciting projects: 
-- [(An annoying button game)](https://mbeckdev.github.io/javascript-mini-projects/) - [code](https://github.com/mbeckdev/mbeckdev.github.io) An annoying button game. A silly project.
-- [(cv-project)](https://mbeckdev.github.io/cv-project/) - [code](https://github.com/mbeckdev/cv-project) Create a resume/cv by entering info. Made with React!
 - [(mnemonic)](https://mbeckdev.github.io/mnemonic/) - [code](https://github.com/mbeckdev/mnemonic) Put in a small word and it makes a sentence out of the letters. HTML turns into "Happy turtles mine lollipops." 
 - [(sass-restaurant)](https://mbeckdev.github.io/sass-restaurant/) - [code](https://github.com/mbeckdev/sass-restaurant) A restaurant made with SASS 
 - [(battleship)](https://mbeckdev.github.io/battleship/) - [code](https://github.com/mbeckdev/battleship) A battleship game against a computer that uses Jest to test the logic of the code before starting to code the visual dom parts. Jest, Webpack, HTML, CSS, JavaScript 
@@ -33,6 +31,8 @@
 - [(regex-form)](https://mbeckdev.github.io/regex-form/) - [code](https://github.com/mbeckdev/regex-form) Using regular expressions in a form -  or How to check that people enter forms with only certain characters.
 - [(google-homepage)](https://mbeckdev.github.io/google-homepage/) - [code](https://github.com/mbeckdev/google-homepage) Recreating the google search homepage in HTML and CSS.
       
+## ⚡ Fun fact: 
+I designed and 3D printed stands for the legs of my desk. Now my chair fits under the desk and doesn't bump into it!
 
 <!--
 **mbeckdev/mbeckdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
