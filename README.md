@@ -4,12 +4,13 @@
 I'm currently working through The Odin Project because they have a ton of awesome projects.
 
 ## 🔭 Latest exciting project: 
-- [(advent-calendar)](https://mbeckdev.github.io/advent-calendar/) - [code](https://github.com/mbeckdev/advent-calendar) An advent calendar of silly website links. - Just for fun
+- [(little-shop)](https://mbeckdev.github.io/little-shop/) - [code](https://github.com/mbeckdev/little-shop) A shop with a working shopping cart! Uses React, CSS Modules, and react-router-dom
 
 ## 📫 How to reach me: 
 - @mbeckdev on Twitter
 
 ## 🔭 Older exciting projects: 
+- [(advent-calendar)](https://mbeckdev.github.io/advent-calendar/) - [code](https://github.com/mbeckdev/advent-calendar) An advent calendar of silly website links. - Just for fun
 - [(memory-card)](https://mbeckdev.github.io/memory-card/) - [code](https://github.com/mbeckdev/memory-card) A memory game where the cards get shuffled - made with React hooks
 - [(cv-project)](https://mbeckdev.github.io/cv-project/) - [code](https://github.com/mbeckdev/cv-project) Create a resume/cv by entering info. Made with React!
 - [(An annoying button game)](https://mbeckdev.github.io/javascript-mini-projects/) - [code](https://github.com/mbeckdev/mbeckdev.github.io) An annoying button game. A silly project.
