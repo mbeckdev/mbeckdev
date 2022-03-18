@@ -13,7 +13,7 @@ I'm currently working through The Odin Project because they have a ton of awesom
 - [(advent-calendar)](https://mbeckdev.github.io/advent-calendar/) - [code](https://github.com/mbeckdev/advent-calendar) An advent calendar of silly website links. - Just for fun
 - [(memory-card)](https://mbeckdev.github.io/memory-card/) - [code](https://github.com/mbeckdev/memory-card) A memory game where the cards get shuffled - made with React hooks
 - [(cv-project)](https://mbeckdev.github.io/cv-project/) - [code](https://github.com/mbeckdev/cv-project) Create a resume/cv by entering info. Made with React!
-- [(An annoying button game)](https://mbeckdev.github.io/javascript-mini-projects/) - [code](https://github.com/mbeckdev/mbeckdev.github.io) An annoying button game. A silly project.
+- [(An annoying button game)](https://mbeckdev.github.io/javascript-mini-projects/) - [code](https://github.com/thinkswell/javascript-mini-projects/tree/master/AnnoyingButtonGame/MBECKDEV) An annoying button game added to a list of opensource javascript projects.
 - A couple tiny tiny CRUD apps to practice React with class components and with functional components with Hooks  
   - [(tiny-crud-class-components)](https://mbeckdev.github.io/tiny-crud-class-components/) and here's the [code](https://github.com/mbeckdev/tiny-crud-class-components)
   - [(tiny-crud-functional-components)](https://mbeckdev.github.io/tiny-crud-functional-components/) and here's the [code](https://github.com/mbeckdev/tiny-crud-functional-components)
